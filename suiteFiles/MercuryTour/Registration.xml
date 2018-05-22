@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="New User Registration" parallel="false">
+
+	<test name="New User Registration">
+		<classes>
+			<class name="org.mercurytour.tests.RegistrationTest" ></class>
+		</classes>
+	</test>
+</suite>
